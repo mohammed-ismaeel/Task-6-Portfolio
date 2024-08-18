@@ -1,0 +1,23 @@
+.project-card a {
+  /* width: 155px;
+  height: 45px; */
+  padding: 12px 24px;
+  border: 1px solid #a53dff;
+  border-radius: 4px;
+  background-color: transparent;
+  text-decoration: none;
+  color: #a53dff;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+/*
+.project-card button:hover {
+  background-color: #a53dff;
+  cursor: pointer;
+}
+
+.project-card button:hover a {
+  color: #fff;
+}
+*/

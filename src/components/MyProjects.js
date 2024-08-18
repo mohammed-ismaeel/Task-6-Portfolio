@@ -1,0 +1,58 @@
+const MyProjects = [
+  {
+    id: 1,
+    urlimage: "../project-1.png",
+    typeProject: "website",
+    title: "RentUp",
+    desc: "A real estate agency website that provides users a unique opportunity to view and browser a variety of properties available for sale.",
+    tools: " HTML5 , CSS3 ",
+    github: "",
+  },
+  {
+    id: 2,
+    urlimage: "../project-2.png",
+    typeProject: "website",
+    title: "K2skiing",
+    desc: "This website is a fun and exciting digital destination for sports and adventure enthusiasts.",
+    tools: " HTML5 , CSS3 ",
+    github: "",
+  },
+  {
+    id: 3,
+    urlimage: "../project-3.png",
+    typeProject: "website",
+    title: "title",
+    desc: "desc",
+    tools: "HTML , CSS , JavaScript",
+    github: "",
+  },
+  {
+    id: 4,
+    urlimage: "../project-4.png",
+    typeProject: "website",
+    title: "Furniture",
+    desc: "It is a great digital destination for anyone looking for high-quality and elegant furniture pieces to transform thier home into a comfortable and beautiful haven.",
+    tools: "HTML , CSS , JavaScript",
+    github: "",
+  },
+  {
+    id: 5,
+    urlimage: "../project-5.png",
+    typeProject: "website",
+    title: "Organick",
+    desc: "Discover a world of fresh, healthy food with our website, which offers a wide range of organic foods.",
+    tools: " HTML5 , CSS3 , JavaScript ",
+    github: "",
+  },
+  {
+    id: 6,
+    urlimage: "../project-6.png",
+    typeProject: "website",
+    title: "Travel Agency",
+    desc: "website offer unique and dedicated tour experiences to meet all your travel needs.",
+    tools: "HTML , CSS , JavaScript",
+    github: "",
+  },
+];
+
+export default MyProjects;
